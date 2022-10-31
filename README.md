@@ -6,6 +6,7 @@
 * [Data source](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#data-source)
 * [Methods](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#Methods)
 * [Tech stack](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#tech-stack)
+*[Quick glance at the results](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#quick-glance-at-the-results)
 * [Lessons learned and recommendation](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#lessons-learned-and-recommendation)
 * [Limitation and what can be improved](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#limitation-and-what-can-be-improved)
 * [Repository structure](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#limitation-and-what-can-be-improved)
@@ -18,6 +19,7 @@ The purpse of this dashboard is to visually depicted the average happiness score
 * Exploratory Data Analysis (EDA) - I believe that an EDA is the best approach to answering the business problem.
 ## Tech stack
 1. [Tableau](https://www.tableau.com/) - An interactive data visualization software. I used the desktop version to create the dashboard.
+## Quick glance at the results
 ## Lessons learned and recommendation
 ## Limitation and what can be improved
 ## Repository structure
