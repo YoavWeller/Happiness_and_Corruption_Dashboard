@@ -6,7 +6,7 @@
 * [Data source](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#data-source)
 * [Methods](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#Methods)
 * [Tech stack](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#tech-stack)
-*[Quick glance at the results](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#quick-glance-at-the-results)
+* [Quick glance at the results](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#quick-glance-at-the-results)
 * [Lessons learned and recommendation](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#lessons-learned-and-recommendation)
 * [Limitation and what can be improved](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#limitation-and-what-can-be-improved)
 * [Repository structure](https://github.com/LolipopnJoker/Happiness_and_Corruption_Dashboard/blob/main/README.md#limitation-and-what-can-be-improved)
